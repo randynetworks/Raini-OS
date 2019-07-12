@@ -1,0 +1,16 @@
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\bin\Debug\RandOS.exe.config
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\bin\Debug\RandOS.exe
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\bin\Debug\RandOS.pdb
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\bin\Debug\RandOS.xml
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\obj\Debug\RandOS.vbprojAssemblyReference.cache
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\obj\Debug\RandOS.Resources.resources
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\obj\Debug\RandOS.vbproj.GenerateResource.cache
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\obj\Debug\RandOS.vbproj.CoreCompileInputs.cache
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\obj\Debug\RandOS.exe
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\obj\Debug\RandOS.xml
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\obj\Debug\RandOS.pdb
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\obj\Debug\RandOS.FormStartLogin.resources
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\obj\Debug\RandOS.createUser.resources
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\obj\Debug\RandOS.FormMain.resources
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\obj\Debug\RandOS.calculator.resources
+C:\Users\Randy-Kun\Desktop\RandOS\RandOS\obj\Debug\RandOS.about.resources
