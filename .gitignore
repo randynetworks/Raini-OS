@@ -1,7 +1,5 @@
-osdatabase.ldb
-osdatabase.mdb
-/RandOS/osdatabaseDataSet.xss
-/RandOS/osdatabaseDataSet.xsd
-/RandOS/osdatabaseDataSet.xsc
-/RandOS/osdatabaseDataSet.Designer.vb
-/.vs/RandOS/v16/Server/sqlite3/db.lock
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.lock
